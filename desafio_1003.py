@@ -14,4 +14,10 @@ de A e B.
 
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1003
 
-# Escreva sua solução abaixo
+# Escreva sua solução abaixo 
+A = int(input())
+B = int(input())
+
+SOMA = A + B
+
+print(f"SOMA = {SOMA}")
